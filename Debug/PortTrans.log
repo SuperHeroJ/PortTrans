@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  PortTrans.cpp
+c:\users\kevin\source\repos\porttrans\porttrans\porttrans.cpp(10): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\kevin\source\repos\porttrans\porttrans\porttrans.cpp(39): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+c:\users\kevin\source\repos\porttrans\porttrans\porttrans.cpp(27): warning C4101: “sendBufS”: 未引用的局部变量
+c:\users\kevin\source\repos\porttrans\porttrans\porttrans.cpp(34): warning C4101: “sendBufC”: 未引用的局部变量
+  PortTrans.vcxproj -> C:\Users\Kevin\source\repos\PortTrans\Debug\PortTrans.exe
